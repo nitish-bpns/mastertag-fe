@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import { useState, useEffect } from "react";
 import Navbar from "../components/Navbar";
@@ -166,3 +167,25 @@ function Home() {
 }
 
 export default Home;
+=======
+import React from 'react'
+import Navbar from '../components/Navbar'
+import styles from '../styles/Home.module.css'
+
+function Home() {
+    return (
+        <div>
+            <Navbar />
+            <div className={styles.div1}>
+                this is the div 1 of home page
+            </div>
+            Home
+
+
+
+        </div>
+    )
+}
+
+export default Home
+>>>>>>> 0fe9625cb5e7fadad5d7756baf49fc45259386af
