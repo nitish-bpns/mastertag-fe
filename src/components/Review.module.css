@@ -1,0 +1,68 @@
+/*---------------------- screen7 -------------------*/
+.hd {
+  text-align: center;
+  margin-top: 120px;
+  margin-bottom: 90px;
+  
+}
+.screen7 {
+  display: flex;
+  margin-left: 90px;
+}
+.slide1 span {
+  display: flex;
+  align-items: center;
+  margin-left: 60px;
+  margin-bottom: 10px;
+}
+.slide1 .theory h4 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #646670;
+  padding-left: 30px;
+}
+.slide1 .theory {
+  width: 340px;
+}
+.deep {
+  margin-left: 20px;
+}
+.deep h4 {
+  text-align: left;
+  padding-bottom: 0px;
+  border-bottom: 0px;
+  margin-bottom: 0px;
+}
+.deep h5 {
+  text-align: left;
+  padding-top: 0px;
+  border-top: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  border-bottom: 0px;
+  margin-bottom: 0px;
+}
+.deep img {
+  padding-right: 260px;
+  padding-top: 0px;
+  border-top: 0px;
+  margin-top: 0px;
+  padding-bottom: 20px;
+}
+.slide1 {
+  margin-left: 40px;
+  width: 364px;
+  height: 305px;
+  text-align: center;
+  background: #ffffff;
+  box-shadow: 0px 54px 80px -16px rgba(219, 222, 230, 0.8);
+  border-radius: 12px;
+}
+.slide1 hr {
+  size: 20px;
+  width: 200px;
+}

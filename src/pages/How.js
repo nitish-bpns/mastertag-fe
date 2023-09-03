@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+import React from 'react'
+
+function How() {
+    return (
+        <div>How</div>
+    )
+}
+
+export default How
+=======
 import React from "react";
 import Navbar from "../components/Navbar";
 import styles from "../styles/How.module.css";
@@ -367,3 +378,4 @@ function How() {
 }
 
 export default How;
+>>>>>>> 0fe9625cb5e7fadad5d7756baf49fc45259386af
