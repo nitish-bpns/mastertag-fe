@@ -1,0 +1,201 @@
+.div1 {
+  height: 100vh;
+  position: relative;
+}
+/* .div1 @media screen (max-width: 768px)  and (min-width:){
+  
+} */
+.div1 img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.div2 {
+  padding-top: 260px;
+  padding-right: 850px;
+  align-items: left;
+  position: relative;
+  z-index: 2;
+}
+.div1 button {
+  margin-right: 10px;
+  border-radius: 20px;
+  height: 38px;
+  width: 120px;
+  cursor: pointer;
+}
+.shop {
+  margin-left: 170px;
+  background-color: red;
+  color: aliceblue;
+  border-color: red;
+}
+.div2 h1 {
+  font-size: 40px;
+  font-weight: 100px;
+  padding-left: 170px;
+  text-align: left;
+}
+.div2 h4 {
+  padding-left: 170px;
+}
+/*----------- screen2 ------------------- */
+.screen2 {
+  text-align: center;
+}
+.screen2 b {
+  font-size: 40px;
+  font-weight: 80px;
+}
+.screen2 span {
+  font-size: 40px;
+  font-weight: lighter;
+}
+.screen2 .shop {
+  border-radius: 20px;
+  margin-right: 200px;
+  height: 38px;
+  width: 120px;
+}
+/*-------------------- screen3 ---------------*/
+.screen3 {
+  display: flex;
+  margin-top: 130px;
+  margin-left: 240px;
+}
+.screen3 .box {
+  margin-top: 130px;
+  margin-left: 200px;
+  text-align: left;
+  width: 400px;
+}
+.screen3 .h4 {
+  font-weight: lighter;
+}
+.screen3 button {
+  border-radius: 20px;
+  height: 38px;
+  width: 120px;
+}
+.screen3 .shop2 {
+  background-color: red;
+  color: aliceblue;
+  border-color: red;
+}
+.screen3 .cart2 {
+  margin-left: 20px;
+}
+/*---------------- screen4 -----------------*/
+.screen4 {
+  display: flex;
+  margin-top: 90px;
+  margin-right: 180px;
+  margin-left: 150px;
+}
+.screen4 .box2 {
+  margin-top: 130px;
+  margin-left: 150px;
+  margin-right: 50px;
+  text-align: left;
+  width: 400px;
+}
+.screen4 .h4 {
+  font-weight: lighter;
+}
+/*---------------- screen5 --------------------*/
+.container1 {
+  text-align: center;
+}
+.container2 {
+  display: flex;
+  margin-left: 180px;
+}
+.container2 .card1 {
+  margin-left: 200px;
+  border-color: antiquewhite;
+  height: 450px;
+  width: 370px;
+  border-radius: 40px;
+  box-shadow: 10px 3px 25px 4px #cfcdcd;
+}
+.container2 .card2 {
+  margin-left: 100px;
+  border-color: antiquewhite;
+  height: 450px;
+  width: 370px;
+  border-radius: 40px;
+  box-shadow: 10px 3px 25px 4px #cfcdcd;
+}
+.container2 .button1 {
+  border-radius: 20px;
+  height: 38px;
+  width: 200px;
+  background-color: red;
+  color: aliceblue;
+  border-color: red;
+}
+.container2 .button2 {
+  margin-top: 20px;
+  border-radius: 20px;
+  height: 38px;
+  width: 200px;
+}
+.container2 .button3 {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  margin-left: 250px;
+  border-radius: 6px;
+  background-color: rgb(32, 162, 32);
+  color: antiquewhite;
+  border-color: rgb(32, 162, 32);
+  width: 77px;
+  height: 30px;
+}
+/*----------------- screen6 -------------*/
+.screen6 {
+  margin-top: 100px;
+  display: flex;
+  background-color: #e9e2e2f0;
+  height: 85px;
+}
+.screen6 img {
+  margin-top: 20px;
+  width: 65px;
+  height: 50px;
+}
+.screen6 div {
+  display: flex;
+  margin-left: 200px;
+}
+.screen6 h5 {
+  font-weight: 800;
+  font-size: 300;
+  text-align: left;
+  margin-left: 20px;
+  margin-bottom: 8px;
+}
+.screen6 h8 {
+  font-weight: 300;
+  font-size: 100;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 8px;
+}
+
+/*---------------------- last ------------*/
+.last {
+  text-align: center;
+  margin-top: 200px;
+}
+.last img {
+  margin-left: 20px;
+}
+.last h5 {
+  width: 320px;
+  padding-left: 560px;
+}
+/*---------------------- Responsive --------------------*/
